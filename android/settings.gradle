@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeGraphView'
+
+include ':app'

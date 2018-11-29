@@ -1,0 +1,33 @@
+{
+  "name": "react-native-graphview",
+  "version": "0.0.1",
+  "description": "React Native Graph View",
+  "dependencies": {
+    "react": "16.6.1",
+    "react-native": "0.57.7"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "react-native-graphview",
+    "graphview",
+    "android graph",
+    "react-native graphs",
+    "react-native charts",
+    "react-native bar graph",
+    "react-native line graph",
+    "react-native point graph",
+    "react-native bar chart",
+    "react-native line chart",
+    "react-native point chart"
+  ],
+  "author": "Zubair Ibrahim <zubair.paizer11@gmail.com.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zubairpaizer/react-native-graphview.git"
+  }
+}
